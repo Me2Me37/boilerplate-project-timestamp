@@ -1,13 +1,14 @@
 {
-	"name": "fcc-api-projects-boilerplate",
+	"name": "yousef-ashki",
 	"version": "0.0.1",
-	"description": "An FCC Backend Challenge",
+	"description": "Yousef Ashki's FCC Backend Challenge",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"dependencies": {
-		"express": "^4.12.4",
+		"express": "^4.15.2",
+		"ejs": "^2.5.6",
 		"cors": "^2.8.0"
 	},
 	"repository": {
@@ -16,6 +17,7 @@
 	},
 	"keywords": [
 		"node",
+		"heroku",
 		"hyperdev",
 		"express",
 		"freecodecamp"
